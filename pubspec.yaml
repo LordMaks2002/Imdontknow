@@ -1,6 +1,6 @@
 name: blog
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -17,3 +17,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets\53cf4b354517f6b210c9e98917e34356.jpg
